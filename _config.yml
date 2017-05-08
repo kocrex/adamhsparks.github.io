@@ -80,36 +80,18 @@ author:
   name             : "Adam H Sparks"
   avatar           : "profile.jpg"
   bio              : "Associate Professor of Field Crops Pathology"
-  location         : "Toowoomba Queensland"
+  location         : "Toowoomba, Queensland"
   employer         : "University of Southern Queensland"
   googlescholar    : "https://scholar.google.com.au/citations?user=TQQzkCwAAAAJ&hl=en"
   email            : "adamhsparks@gmail.com"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "adamhsparks"
+  github           : "https://www.github.com/adamhsparks"
   google_plus      : "https://plus.google.com/u/0/+AdamHSparks"
-  keybase          :
-  instagram        : "adamhsparks"
-  lastfm           :
+  instagram        : "https://instagram.com/adamhsparks"
   linkedin         : "https://www.linkedin.com/in/adam-h-sparks-507b968b/"
   orcid            : "http://orcid.org/0000-0002-0061-8359"
-  pinterest        :
-  soundcloud       :
+  researchgate     : "https://www.researchgate.net/profile/Adam_Sparks2"
   stackoverflow    : http://stackoverflow.com/users/3583509/adamhsparks
-  steam            :
-  tumblr           :
   twitter          : "adamhsparks"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
 
 # Reading Files
 include:
