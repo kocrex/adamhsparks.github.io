@@ -25,6 +25,6 @@ Spatial modelling and mapping of plant diseases. The effects of climate change o
 Research
 ------
 
-Pathogens of broadacre crops
-Tropical rice disease management
-Modelling and simulating crop disease epidemics
+Pathogens of broadacre crops  
+Tropical rice disease management  
+Modelling and simulating crop disease epidemics  
