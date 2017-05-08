@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Adam H Sparks, University of Southern Queensland, Centre for Crop Health"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -20,7 +20,7 @@ B.S. Agronomy, Purdue University, 2000
 Expertise
 ------
 
-Spatial modelling and mapping of plant diseases. The effects of climate change on plant diseases. Developing integrated disease management strategies. 
+Spatial modelling and mapping of plant diseases. The effects of climate change on plant diseases. Developing integrated disease management strategies.
 
 Research
 ------
