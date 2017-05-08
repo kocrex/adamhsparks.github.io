@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV is available as a **[PDF file]**(https://github.com/adamhsparks/AHSparks_CV/raw/master/AHSparks_CV.pdf) and also in a shorter **[two page PDF file]**(https://github.com/adamhsparks/AHSparks_CV/raw/master/AHSparks_2_Page_CV.pdf)
+My full CV is available as a [**PDF file**](https://github.com/adamhsparks/AHSparks_CV/raw/master/AHSparks_CV.pdf) and also in a shorter [**two page PDF file**](https://github.com/adamhsparks/AHSparks_CV/raw/master/AHSparks_2_Page_CV.pdf)
 
 Education
 ======
