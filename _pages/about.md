@@ -13,9 +13,9 @@ I am a botanical epidemiologist and ecologist specialising in multivariate stati
 Education
 ------
 
-Ph.D. Plant Pathology, Kansas State University, 2009
-Graduate Certificate Geographic Information Sciences, Kansas State University, 2007
-B.S. Agronomy, Purdue University, 2000
+Ph.D. Plant Pathology, Kansas State University, 2009  
+Graduate Certificate Geographic Information Sciences, Kansas State University, 2007  
+B.S. Agronomy, Purdue University, 2000  
 
 Expertise
 ------
