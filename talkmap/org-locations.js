@@ -53,5 +53,10 @@ var addressPoints = [
     "Raipur, Chhattisgarh, India", 
     21.2379468, 
     81.6336833
+  ], 
+  [
+    "Los Ba\u00f1os, Calabarzon, Philippines", 
+    14.15550365, 
+    121.225013458769
   ]
 ];
