@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a botanical epidemiologist and ecologist specialising in multivariate statistics, network analysis, geographic information systems (GIS) and simulation modeling. I currently lead the summer crops pathology group in the [Centre for Crop Health]("https://www.usq.edu.au/research/research-at-usq/institutes-centres/cch") at the [University of Southern Queensland]("https://www.usq.edu.au").
+I am a botanical epidemiologist and ecologist specialising in multivariate statistics, network analysis, geographic information systems (GIS) and simulation modeling. Currently I lead the summer crops pathology group in the [Centre for Crop Health]("https://www.usq.edu.au/research/research-at-usq/institutes-centres/cch") at the [University of Southern Queensland]("https://www.usq.edu.au").
 
 Education
 ------
