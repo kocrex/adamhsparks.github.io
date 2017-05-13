@@ -1,7 +1,7 @@
 ---
 title: "Ecology and epidemiology in R: spatial analysis"
 collection: publications
-permalink: /publication/2008/12/31-10.1094/PHI-A-2008-0129-03
+permalink: /publication/2008/12/31-sparks_et_al_2008a
 date: 2008/12/31
 venue: 'The Plant Health Instructor'
 paperurl: 'http://dx.doi.org/10.1094/PHI-A-2008-0129-03'

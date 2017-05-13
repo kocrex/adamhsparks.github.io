@@ -1,7 +1,7 @@
 ---
 title: "Ecology and epidemiology in R: modeling dispersal gradients"
 collection: publications
-permalink: /publication/2007/12/31-10.1094/PHI-A-2007-1226-03
+permalink: /publication/2007/12/31-esker_et_al_2007a
 date: 2007/12/31
 venue: 'The Plant Health Instructor'
 paperurl: 'http://dx.doi.org/10.1094/PHI-A-2007-1226-03'

@@ -1,7 +1,7 @@
 ---
 title: "Ecology and epidemiology in R: disease forecasting"
 collection: publications
-permalink: /publication/2008/12/31-10.1094/PHI-A-2008-0129-01
+permalink: /publication/2008/12/31-esker_et_al_2007b
 date: 2008/12/31
 venue: 'The Plant Health Instructor'
 paperurl: 'http://dx.doi.org/10.1094/PHI-A-2008-0129-01'
