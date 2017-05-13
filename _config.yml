@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Adam H Sparks"
 title_separator          : "-"
 name                     : &name "Adam H Sparks"
-description              : &description "Plant pathologist, geophytopathologist, spatial and botanical epidemiologist, rstats user, GIS geek, associate professor, photographer and frequent traveler."
+description              : &description "Associate Profesor of Field Crops Pathology"
 url                      : https://adamhsparks.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adamhsparks/adamhsparks.github.io"
@@ -79,19 +79,37 @@ analytics:
 author:
   name             : "Adam H Sparks"
   avatar           : "profile.jpg"
-  bio              : "Associate Professor of Field Crops Pathology"
-  location         : "Toowoomba, Queensland"
-  employer         : "University of Southern Queensland"
+  bio              : "Plant pathologist, geophytopathologist, spatial and botanical epidemiologist, rstats user, GIS geek, associate professor, photographer and frequent traveler."
+  location         : "Toowoomba Queensland"
+  employer         : "Centre for Crop Health, University of Southern Queensland"
   googlescholar    : "https://scholar.google.com.au/citations?user=TQQzkCwAAAAJ&hl=en"
   email            : "adamhsparks@gmail.com"
-  github           : "https://www.github.com/adamhsparks"
-  google_plus      : "https://plus.google.com/u/0/+AdamHSparks"
-  instagram        : "https://instagram.com/adamhsparks"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "adamhsparks"
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
   linkedin         : "https://www.linkedin.com/in/adam-h-sparks-507b968b/"
   orcid            : "http://orcid.org/0000-0002-0061-8359"
-  researchgate     : "https://www.researchgate.net/profile/Adam_Sparks2"
-  stackoverflow    : http://stackoverflow.com/users/3583509/adamhsparks
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
   twitter          : "adamhsparks"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
 
 # Reading Files
 include:
@@ -230,7 +248,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Australia/Brisbane # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -284,5 +302,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-minimal
