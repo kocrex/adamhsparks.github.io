@@ -20,16 +20,22 @@ Education
 
 **2009** *Ph.D. Plant Pathology*
 Kansas State University, Manhattan, Kansas, USA
+
 Epidemiology and Ecology of Plant Pathogens
+
 **Dissertation:** [Disease risk mapping with metamodels for coarse resolution
 predictors: global potato late blight risk now and under future climate conditions](https://github.com/adamhsparks/Global-Late-Blight-MetaModelling)
 
 **2007** *Post Graduate Certiﬁcate Geography*
+
 Kansas State University, Manhattan, Kansas, USA
+
 Geographic Information Science
 
 **2000** *B.Sc. Agronomy*
+
 Purdue University, West Lafayette, Indiana, USA
+
 Soil and Crop Management
 
 Expertise
@@ -38,9 +44,11 @@ Expertise
 Spatial modelling and mapping of plant diseases. The effects of climate change
 on plant diseases. Developing integrated disease management strategies.
 
-Research
+Research Areas
 ------
 
 Pathogens of broadacre crops
+
 Tropical rice disease management
+
 Modelling and simulating crop disease epidemics
