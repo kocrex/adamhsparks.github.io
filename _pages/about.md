@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Adam H Sparks, University of Southern Queensland, Centre for Crop Health"
+title: "Adam H Sparks"
 excerpt: "About me"
 author_profile: true
 redirect_from:
