@@ -41,8 +41,11 @@ Soil and Crop Management
 Expertise
 ------
 
-Spatial modelling and mapping of plant diseases. The effects of climate change
-on plant diseases. Developing integrated disease management strategies.
+Spatial modelling and mapping of plant diseases
+
+The effects of climate change on plant diseases
+
+Developing integrated disease management strategies
 
 Research Areas
 ------
