@@ -95,3 +95,5 @@ Service and leadership
 ======
 
 * International Congress of Plant Pathology (ICPP) 2018 Epidemiology Committee
+
+* Section Editor Tropical Plant Pathology
